@@ -1,0 +1,13 @@
+cmake_minimum_required(VERSION 3.20)
+
+add_subdirectory(ChainOfResponsibility)
+add_subdirectory(Command)
+add_subdirectory(Interpreter)
+add_subdirectory(Iterator)
+add_subdirectory(Mediator)
+add_subdirectory(Memento)
+add_subdirectory(Observer)
+add_subdirectory(State)
+add_subdirectory(Strategy)
+add_subdirectory(TemplateMethod)
+add_subdirectory(Visitor)
